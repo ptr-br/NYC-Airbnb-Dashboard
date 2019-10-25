@@ -1,0 +1,60 @@
+.js-plotly-plot .plotly .modebar {
+  padding-top: 5%;
+  margin-right: 3.5%;
+}
+
+body {
+  background-color: #f2f2f2;
+  margin: 7.5%;
+}
+
+.two.columns {
+  width: 16.25%;
+}
+
+.column,
+.columns {
+  margin-left: 0.5%;
+}
+
+.pretty_container_boroughs {
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  margin: 10px;
+  padding: 15px;
+  padding-bottom: 11px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+.pretty_container {
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  margin: 10px;
+  padding: 15px;
+  padding-bottom: 11px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+.pretty_container_price{
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  padding-top: 0px;
+  margin: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 25px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+
+.pretty_container_slider {
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  padding-top: 0px;
+  margin: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 35px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}
