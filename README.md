@@ -1,7 +1,7 @@
 # New York City Airbnb 
 Interactive data visualization with Dash by plotly
 
-##Getting Started 
+## Getting Started 
 
 ### Run on local server
 Create a virtual enviroment inside a folder and activate it.
