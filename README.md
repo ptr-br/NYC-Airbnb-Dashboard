@@ -18,7 +18,7 @@ my_env\Scripts\activate.bat
 Clone the repository to your directory and install the requirements.txt
 ```
 git clone https://github.com/ptr-br/NYC-Airbnb-Dashboard.git
-cd 
+cd NYC-Airbnb-Dashboard
 pip install -r requirements.txt
 ```
 Execute the application
