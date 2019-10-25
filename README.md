@@ -5,18 +5,21 @@ Interactive data visualization with Dash by [Plotly](https://plot.ly/).
 
 ### Run on local server
 Create a virtual enviroment inside a folder and activate it.
-  
-  # Wndows
-   python -m ven my_env
-   my_env\Scripts\activate.bat
-   
+```
+# Windows
+ python -m ven my_env
+ my_env\Scripts\activate.bat
+```
 Clone the repository to your directory and install the requirements.txt
-  git clone <reprp>
-  cd <folder>
-  pip install -r requirements.txt
-  
+```
+git clone <reprp>
+cd <folder>
+pip install -r requirements.txt
+```
 Execute the application
-  python app.py
+```
+python app.py
+```
   
   
   
