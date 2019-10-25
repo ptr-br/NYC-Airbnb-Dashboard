@@ -1,5 +1,5 @@
 # New York City Airbnb 
-Interactive data visualization with Dash by plotly
+Interactive data visualization with Dash by [Plotly](https://plot.ly/).
 
 ## Getting Started 
 
