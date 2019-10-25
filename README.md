@@ -2,8 +2,10 @@
 Interactive data visualization with Dash by [Plotly](https://plot.ly/).
 
 ## Build with
-- [Dash](https://dash.plot.ly/) - Main server and interactive components
-- [Plotly Python](https://plot.ly/python/) - Used to create the interactive plots
+- [Python](https://www.python.org/) - Main scripting language
+- [Plotly Python](https://plot.ly/python/) - For interactive plots
+- [Dash](https://dash.plot.ly/) - Server and interactive components
+
 
 ## Getting Started 
 
