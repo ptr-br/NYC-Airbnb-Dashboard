@@ -1,6 +1,10 @@
 # New York City Airbnb 
 Interactive data visualization with Dash by [Plotly](https://plot.ly/).
 
+## Build with
+- [Dash](https://dash.plot.ly/) - Main server and interactive components
+- [Plotly Python](https://plot.ly/python/) - Used to create the interactive plots
+
 ## Getting Started 
 
 ### Run on local server
