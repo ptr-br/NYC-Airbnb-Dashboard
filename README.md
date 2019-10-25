@@ -10,7 +10,7 @@ Interactive data visualization with Dash by [Plotly](https://plot.ly/).
 ## Getting Started 
 
 ### Run on local server
-Create a virtual enviroment inside a folder and activate it.
+Create a virtual enviroment inside a folder and activate it
 ```
 python -m ven my_env
 my_env\Scripts\activate.bat
