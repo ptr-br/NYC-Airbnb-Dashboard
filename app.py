@@ -272,7 +272,7 @@ app.layout = html.Div(
         html.Div([
                  html.Div(
                      children=[
-                         #Map-header
+                         # Map-header
                          html.Div(
                              id ='map-header',
                              children=[
@@ -320,7 +320,8 @@ app.layout = html.Div(
                                 fixed_rows={ 'headers': True, 'data': 0 },
                                 style_table=layout_table,
                                 style_cell={'width': '165px'},
-                                # data is an array of dicts with the headline as keys and the specific rows as values (len of the array is the number of rows in the table)
+                                # data is an array of dicts with the headline as keys and the specific rows as 
+                                # values (len of the array is the number of rows in the table)
                                 data=map_data_df.to_dict('records'),
                             ),   
                     ],className="pretty_container")
@@ -418,7 +419,7 @@ def bar_data(slider_value,boroughs_value):
     data=[]
     cat_list=['<50$','50$-100$','100$-200$','200$-300$','>300$']
     
-    # create the needed dict out of the DataFrame and the cat list
+    # create the dict out of the DataFrame and the cat list
     for counter,value in enumerate(slider_value):
         tmp_dict = {'x':bar_df.columns,'y':bar_df.loc[counter+1,:].tolist(),'type':'bar','name':cat_list[counter],'marker':{'color':colormap[counter+1]}} 
         data.append(tmp_dict)
