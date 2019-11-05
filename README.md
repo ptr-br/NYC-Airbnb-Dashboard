@@ -34,7 +34,7 @@ Execute the application
 This app displays Airbnb rentals in New York Ctiy. Choose your boroughs and a price to show off only the possibilities you can afford.
 
 ## Snapshots
-Get an impression of the appliction without using it by yourself with a give and these snapshots.
+Get an impression of the appliction without using it by yourself.
 
 ![animated1](snapshots/gif.gif)
 
