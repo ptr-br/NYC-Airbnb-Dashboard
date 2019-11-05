@@ -38,9 +38,9 @@ Get an impression of the appliction without using it by yourself with a give and
 
 ![animated1](snapshots/gif.gif)
 
-![screenshot](snapshots/main.png)
+![screenshot1](snapshots/main.PNG)
 
-![screenshot](snapshots/bar.png)
+![screenshot2](snapshots/bar.PNG)
 
 
 
